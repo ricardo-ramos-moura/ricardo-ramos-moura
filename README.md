@@ -7,13 +7,13 @@ Hello, i'm Ricardo Ramos. Welcome to my profile!
       <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-ramos-moura&layout=compact&langs_count=7&theme=dark"/-->
 </div>
 <div style="display: inline_block"><br>  
-<img align="center" alt="R-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="center" alt="R-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">       
-<img align="center" alt="R-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-<img align="center" alt="R-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  
-<img align="center" alt="R-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >  
-<img align="center" alt="R-Android" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-<img align="center" alt="R-Jenkins" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+<img align="center" alt="R-Atudio"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+<img align="center" alt="R-Spring"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">       
+<img align="center" alt="R-Java"     height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
+<img align="center" alt="R-Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">  
+<img align="center" alt="R-Oracle"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >  
+<img align="center" alt="R-Android"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+<img align="center" alt="R-Jenkins"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
 
 
 </div>
