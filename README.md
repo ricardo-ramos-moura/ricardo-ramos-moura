@@ -4,7 +4,7 @@ Hello, i'm Ricardo Ramos. Welcome to my profile!
 <div align="center">
    <a href="https://github.com/ricardo-ramos-moura">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardo-ramos-moura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-ramos-moura&layout=compact&langs_count=7&theme=dark"/-->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-ramos-moura&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>  
 <img align="center" alt="R-Atudio"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
