@@ -14,6 +14,7 @@ Hello, i'm Ricardo Ramos. Welcome to my profile!
 <img align="center" alt="R-Oracle"   height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" >  
 <img align="center" alt="R-Android"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
 <img align="center" alt="R-Jenkins"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+<img align="center" alt="R-Delphi"   height="50" width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg/128px-Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg.png">
 
 
 </div>
